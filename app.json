@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Educhild",
+    "slug": "Educhild",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Educhild"
+}
